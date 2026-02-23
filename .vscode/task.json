@@ -1,0 +1,12 @@
+{
+  "wersion": "2.0.0",
+  "task": [
+    {
+      "type": "npm",
+      "script": "dev",
+      "runOptions": {
+        "runOn": "folderOpen"
+      }
+    }
+  ]
+}
